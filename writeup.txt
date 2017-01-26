@@ -1,0 +1,1 @@
+Strategy was to pick a location at first and then plant 5 seeds in a plus shape. Then we will feed the center tile with water and harvest when plants grow to their max level. We also request any water and seeds required by solving about 50 puzzles in 10 million cycles. Functionality also added to prevent against fires on our plants.
