@@ -1,2 +1,0 @@
-# SpimBot
-SPIMbot's sensors and controls are manipulated via memory-mapped I/O; that is, the I/O devices are queried and controlled by reading and writing particular memory locations. All of SPIMbot's I/O devices are mapped in the memory range 0xffff0000 - 0xffffffff. Below we describe SPIMbot's I/O devices and their associated control and data registers. Crossed out I/Os are disabled for now and will be enabled for the competition later.
